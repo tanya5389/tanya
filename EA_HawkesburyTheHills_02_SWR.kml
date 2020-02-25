@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="EA_HawkesburyTheHills_02">
+  <name>EA_HawkesburyTheHills_02</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>EA_HawkesburyTheHills_02</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Potential Severe Weather Flooding NSW</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>Potential Severe Weather Flooding NSW</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SES_PlanNa</td>
+<td></td>
+</tr>
+<tr>
+<td>Unit</td>
+<td>Hawkesbury,The Hills</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>SES_Region</td>
+<td>SWR</td>
+</tr>
+<tr>
+<td>Population</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Pop_Source</td>
+<td></td>
+</tr>
+<tr>
+<td>Notes</td>
+<td></td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Event_No</td>
+<td>160_1112</td>
+</tr>
+<tr>
+<td>Shape_Leng</td>
+<td>0.71942</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Time</td>
+<td>20:12:00</td>
+</tr>
+<tr>
+<td>Date</td>
+<td>20120303</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Event_Name</td>
+<td>Potential Severe Weather Flooding NSW</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude>          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 150.8887304234704,-33.48336811567658,0 150.8836664957124,-33.48431221226936,0 150.8866135407825,-33.47936538613432,0 150.9030327934289,-33.4774708563256,0 150.9105056587093,-33.4763130889086,0 150.9112424202017,-33.46568267424682,0 150.9192415435625,-33.47231352677857,0 150.9309244743852,-33.46431440341785,0 150.934924035616,-33.45652578346903,0 150.9306087197168,-33.45252622223833,0 150.9270301635114,-33.44600062186231,0 150.9163997497489,-33.44263256996825,0 150.9228200988687,-33.43684373018521,0 150.9298719582245,-33.43779099508951,0 150.9474489791872,-33.43831725316986,0 150.9650260001499,-33.44915817034429,0 150.9777614462339,-33.44073804015955,0 150.9713410971141,-33.43326517487916,0 150.9578688895379,-33.41989821855933,0 150.9724988654305,-33.41789843839366,0 150.9842870466101,-33.40411047524984,0 150.9868130857554,-33.39821638421044,0 150.9917599127899,-33.39790062954209,0 150.9957594740207,-33.39179603599003,0 150.9952332159403,-33.38716496362402,0 150.9936544416993,-33.38053411109226,0 150.9869183379111,-33.37632404644954,0 150.9729198722545,-33.38095511791626,0 150.9633419737532,-33.3967428612258,0 150.9622894575925,-33.40389997183782,0 150.9580793929498,-33.40695226906351,0 150.9460807083582,-33.4165301666653,0 150.9412391334794,-33.41168859268593,0 150.9306087197168,-33.4104255722139,0 150.9075586136393,-33.40389997183783,0 150.8996647424341,-33.40926780479692,0 150.8998752449468,-33.4167406700773,0 150.8913498635055,-33.41558290176093,0 150.8721940683018,-33.41705642474564,0 150.8661947251067,-33.42758158725178,0 150.8661947251067,-33.44600062186228,0 150.8678787515033,-33.45347348624337,0 150.8621951638759,-33.46178836517175,0 150.8577745958211,-33.46684044256319,0 150.8682997583273,-33.47515532149158,0 150.865773719182,-33.47799711440596,0 150.8591428666501,-33.47547107615992,0 150.8527225184297,-33.47220827552224,0 150.8472494342142,-33.46894547578386,0 150.8438813814208,-33.47326079168292,0 150.8386188006174,-33.4696822372762,0 150.8257781023777,-33.46747195189982,0 150.8170422175245,-33.47199777211022,0 150.8177789790168,-33.48631199243504,0 150.8279883868547,-33.48883803247975,0 150.8441971360892,-33.48536472843004,0 150.8618794092075,-33.48736450949505,0 150.8667209840863,-33.48610148992233,0 150.8700890359804,-33.48968004432907,0 150.8511437432893,-33.48862752906775,0 150.8472494342142,-33.48946954181637,0 150.837882039125,-33.49283759371043,0 150.8480914460636,-33.49283759371042,0 150.8540907892588,-33.49652140027282,0 150.8614584023835,-33.49525838070011,0 150.8631424278809,-33.49831067792581,0 150.8633529321922,-33.50262599472421,0 150.8671419909103,-33.5067308081106,0 150.8887304234704,-33.48336811567658,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>ffc7fcde</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

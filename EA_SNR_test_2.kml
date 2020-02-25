@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="EA_SNR_test_2">
+  <name>EA_SNR_test_2</name>
+  <Snippet></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.400000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fff5facd</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>EA_SNR_test_2</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>0</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>0</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>FID</td>
+<td>0</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>Id</td>
+<td>0</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 151.316683201105,-33.61752160169101,0 151.3154811243421,-33.63143134708963,0 151.3072383122541,-33.63538102788188,0 151.3072383122541,-33.64070451068875,0 151.3044907082247,-33.64791697126579,0 151.3044907082247,-33.65667495910932,0 151.3120466193054,-33.66337224393089,0 151.31952,-33.66730999912893,0 151.3226935849193,-33.66131154090881,0 151.3276600000002,-33.64890999912919,0 151.3355300000001,-33.63367999912939,0 151.3416900000001,-33.6219199991295,0 151.33235,-33.61326999912968,0 151.3336200000001,-33.60350999912978,0 151.3261600000002,-33.59038999912992,0 151.3204611566456,-33.59210626441954,0 151.316683201105,-33.59880354924112,0 151.3213197829048,-33.60584428456625,0 151.3271584414671,-33.61168294312868,0 151.3273301667189,-33.6194105794612,0 151.3225218596675,-33.62009748046856,0 151.316683201105,-33.61752160169101,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
